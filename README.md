@@ -12,7 +12,7 @@ WINDOWS SETUP
 7.	Launch firewall by typing "firewall.cpl" in run dialog win +r
 8.	Create and incoming-allowed rule for UDP/53 port.
 9.	Allot a fix IP to your system as per local range (say 192.168.1.27)
-10. 	Use this IP as DNS on other devices in your local net.
+10.	Use this IP as DNS on other devices in your local net.
 
 
 LINUX (DEBIAN) SETUP
